@@ -1,2 +1,1 @@
-# console.log
-criando um console
+# alterando o redme do projeto
